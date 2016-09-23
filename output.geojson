@@ -1,0 +1,250 @@
+ { "type" : "Feature Collection",
+    {"features" : [
+         { "type" : "Feature",
+        "id" : 1,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["23.50N","91.16E"]},
+        "properties" : { "name" : "Agartala", "value" : "169"}
+        },
+         { "type" : "Feature",
+        "id" : 2,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["27.11N","78.01E"]},
+        "properties" : { "name" : "Agra", "value" : "13684"}
+        },
+         { "type" : "Feature",
+        "id" : 3,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["23.02N","72.35E"]},
+        "properties" : { "name" : "Ahmedabad", "value" : "8012"}
+        },
+         { "type" : "Feature",
+        "id" : 4,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["31.38N","74.52E"]},
+        "properties" : { "name" : "Amritsar", "value" : "1941"}
+        },
+         { "type" : "Feature",
+        "id" : 5,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["12.58N","77.34E"]},
+        "properties" : { "name" : "Bangalore", "value" : "17936"}
+        },
+         { "type" : "Feature",
+        "id" : 6,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["30.45N","76.47E"]},
+        "properties" : { "name" : "Chandigarh", "value" : "59"}
+        },
+         { "type" : "Feature",
+        "id" : 7,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["13.05N","80.16E"]},
+        "properties" : { "name" : "Chennai (Madras)", "value" : "38094"}
+        },
+         { "type" : "Feature",
+        "id" : 8,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["27.29N","95.00E"]},
+        "properties" : { "name" : "Dibrugarh", "value" : "2629"}
+        },
+         { "type" : "Feature",
+        "id" : 9,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["27.20N","88.37E"]},
+        "properties" : { "name" : "Gangtok", "value" : "63"}
+        },
+         { "type" : "Feature",
+        "id" : 10,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["26.11N","91.44E"]},
+        "properties" : { "name" : "Guwahati", "value" : "2629"}
+        },
+         { "type" : "Feature",
+        "id" : 11,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["17.22N","78.29E"]},
+        "properties" : { "name" : "Hyderabad", "value" : "10485"}
+        },
+         { "type" : "Feature",
+        "id" : 12,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["26.56N","75.49E"]},
+        "properties" : { "name" : "Jaipur", "value" : "12000"}
+        },
+         { "type" : "Feature",
+        "id" : 13,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["23.03N","70.11E"]},
+        "properties" : { "name" : "Kandla", "value" : "8012"}
+        },
+         { "type" : "Feature",
+        "id" : 14,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["26.28N","80.20E"]},
+        "properties" : { "name" : "Kanpur", "value" : "13684"}
+        },
+         { "type" : "Feature",
+        "id" : 15,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["9.58N","76.17E"]},
+        "properties" : { "name" : "Kochi", "value" : "17497"}
+        },
+         { "type" : "Feature",
+        "id" : 16,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["22.34N","88.22E"]},
+        "properties" : { "name" : "Kolkata (Calcutta)", "value" : "2368"}
+        },
+         { "type" : "Feature",
+        "id" : 17,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["25.19N","79.38E"]},
+        "properties" : { "name" : "Kulpahar", "value" : "13684"}
+        },
+         { "type" : "Feature",
+        "id" : 18,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["26.51N","80.57E"]},
+        "properties" : { "name" : "Lucknow", "value" : "13684"}
+        },
+         { "type" : "Feature",
+        "id" : 19,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["30.55N","75.51E"]},
+        "properties" : { "name" : "Ludhiana", "value" : "1941"}
+        },
+         { "type" : "Feature",
+        "id" : 20,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["18.59N","72.50E"]},
+        "properties" : { "name" : "Mumbai (Bombay)", "value" : "6845"}
+        },
+         { "type" : "Feature",
+        "id" : 21,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["21.08N","79.05E"]},
+        "properties" : { "name" : "Nagpur", "value" : "2786"}
+        },
+         { "type" : "Feature",
+        "id" : 22,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["28.37N","77.13E"]},
+        "properties" : { "name" : "New Delhi", "value" : "18978"}
+        },
+         { "type" : "Feature",
+        "id" : 23,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["25.37N","85.09E"]},
+        "properties" : { "name" : "Patna", "value" : "16546"}
+        },
+         { "type" : "Feature",
+        "id" : 24,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["11.40N","92.46E"]},
+        "properties" : { "name" : "Port Blair", "value" : "82"}
+        },
+         { "type" : "Feature",
+        "id" : 25,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["18.31N","73.51E"]},
+        "properties" : { "name" : "Pune", "value" : "7812"}
+        },
+         { "type" : "Feature",
+        "id" : 26,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["25.34N","91.53E"]},
+        "properties" : { "name" : "Shillong", "value" : "34"}
+        },
+         { "type" : "Feature",
+        "id" : 27,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["31.06N","77.10E"]},
+        "properties" : { "name" : "Shimla", "value" : "45"}
+        },
+         { "type" : "Feature",
+        "id" : 28,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["26.43N","88.26E"]},
+        "properties" : { "name" : "Siliguri", "value" : "567"}
+        },
+         { "type" : "Feature",
+        "id" : 29,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["34.05N","74.47E"]},
+        "properties" : { "name" : "Srinagar", "value" : "1089"}
+        },
+         { "type" : "Feature",
+        "id" : 30,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["21.10N","72.50E"]},
+        "properties" : { "name" : "Surat", "value" : "4242"}
+        },
+         { "type" : "Feature",
+        "id" : 31,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["26.38N","92.48E"]},
+        "properties" : { "name" : "Tezpur", "value" : "245"}
+        },
+         { "type" : "Feature",
+        "id" : 32,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["8.29N","76.57E"]},
+        "properties" : { "name" : "Trivandrum", "value" : "14352"}
+        },
+         { "type" : "Feature",
+        "id" : 33,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["17.41N","83.13E"]},
+        "properties" : { "name" : "Visakhapatnam", "value" : "10485"}
+        },
+         { "type" : "Feature",
+        "id" : ,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["",""]},
+        "properties" : { "name" : "", "value" : ""}
+        },
+         { "type" : "Feature",
+        "id" : ,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["",""]},
+        "properties" : { "name" : "", "value" : ""}
+        },
+         ]
+}
+    
