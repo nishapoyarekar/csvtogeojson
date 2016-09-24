@@ -4,14 +4,14 @@
         "id" : 1,
             "geometry" : {
                 "type" : "Point",
-                "coordinates" : ["23.50","91.16"]},
+                "coordinates" : [23.50,91.16]},
         "properties" : { "name" : "Agartala", "value" : "169"}
         },
          { "type" : "Feature",
         "id" : 2,
             "geometry" : {
                 "type" : "Point",
-                "coordinates" : ["27.11","78.01"]},
+                "coordinates" : [27.11,78.01]},
         "properties" : { "name" : "Agra", "value" : "13684"}
         },
          { "type" : "Feature",
