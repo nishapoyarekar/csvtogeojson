@@ -4,7 +4,7 @@
         "id" : 1,
             "geometry" : {
                 "type" : "Point",
-                "coordinates" : [23.50,91.16]},
+                "coordinates" : [91.16,23.50]},
         "properties" : { "name" : "Agartala", "value" : "169"}
         },
          { "type" : "Feature",
